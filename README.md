@@ -4,21 +4,19 @@
 Building AI-powered applications that solve real-world problems.
 Exploring Data Science, Machine Learning.
 Collaborating on open-source projects and contributing to innovative ideas.
+I have devloped 2 GEN AI projects 1.Cold email generator and 2. AI powered resume tailoring tool
 
 🌱 I’m Currently Learning:
-Advanced Data Structures and Algorithms (DSA) in C++,python.
 Deep Learning architectures like Transformers, CNNs, and RNNs.
 Cloud technologies: Azure Machine Learning, AWS.
+Advanced Data Structures and Algorithms (DSA) in C++,python.
 
 💞️ I’m Looking to Collaborate On:
-Projects involving AI/ML and computer vision.
-Developing full-stack applications using Django, Flask, or React.
-Open-source tools to enhance developer productivity.
-
+Projects involving AI/ML :
+  
 📫 How to Reach Me:
-📧 Email: shubham.baghel@example.com
+📧 Email: shubhambaghel307gmail.com
 💼 LinkedIn: linkedin.com/in/ShubhamBaghel309
-😄 Pronouns:
-He/Him
+😄 Pronouns:He/Him
 ⚡ Fun Fact:
 I turned my love for coding into creating innovative solutions. I'm also fascinated by the way AI transforms industries!
