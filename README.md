@@ -19,8 +19,7 @@ I am a 2nd year AIML student at NIT kurukshetra I am currently working as an und
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShubhamBaghel309&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShubhamBaghel309&icon=5&color=5)](https://visitcount.itsvg.in)
