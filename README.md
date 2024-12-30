@@ -1,6 +1,70 @@
 
 # 💫 About Me:
-I am a 2nd year AIML student at NIT kurukshetra I am currently working as an undergrad research assistant at NIT kurukshetra in ISRO funded projects and i am a passionate devloper building skills by building projects which solves my own problems and can help many many students , i am learning generative AI as my passion and have experience in MACHINE leanirnig and deep learning<br>
+# 👋 Hi, I'm Shubham Baghel
+
+🎓 **2nd-year B.Tech Student**  
+Artificial Intelligence and Machine Learning at **NIT Kurukshetra**  
+
+🚀 **Undergraduate Research Assistant**  
+Contributing to ISRO-funded projects, solving real-world problems with AI and ML innovations.
+
+---
+
+## 🌟 About Me
+- **Passionate Developer** focused on creating impactful solutions for students and beyond.  
+- Exploring **Machine Learning**, **Deep Learning**, and **Generative AI**.  
+- Skilled in deployment strategies for **TensorFlow** and **ONNX** models.  
+
+🧠 **Key Strengths:**  
+- Hands-on experience in Python, SQL, and C.  
+- Proficient with frameworks like TensorFlow, LangChain, Streamlit, and Keras.  
+- Specializing in **LLMs**, **NLP**, and **Computer Vision**.
+
+---
+
+## 💼 Work Experience
+### Undergraduate Research Intern  
+**NIT Kurukshetra / ISRO**  
+- **Project:** Jamming mitigation using GANs for GNSS signals.  
+- Achieved 98% accuracy in GNSS jamming classification with advanced ML models.  
+
+### Virtual Internship  
+**BCG GenAI Job Simulation (Forage)**  
+- Developed an AI-powered chatbot, reducing financial analysis turnaround by 60%.  
+
+---
+
+## 🛠️ Projects
+- **[AI Resume Tailoring Tool](https://github.com/ShubhamBaghel309/Resume_Tailor)**  
+  - Optimized ATS compatibility, boosting job application efficiency for 100+ students.  
+  - Integrated cold email generation with Llama 3.3 and LangChain.
+
+- **[YouTube Video Summarizer](https://videosummarizze.streamlit.app/)**  
+  - Streamlined video learning, reducing review time by 70%.  
+  - Built with Google Generative AI and Hugging Face Whisper.
+
+- **[Jarvis Virtual Assistant](https://github.com/ShubhamBaghel309/Jarvis-AI.git)**  
+  - Improved task efficiency by 50% with a desktop voice assistant.
+
+---
+
+## 📜 Certifications
+- **Azure AI-900** (890/1000)  
+- **Supervised Machine Learning**  
+- **Generative AI Beginner (Google Cloud)**  
+- **Postman API Fundamentals Expert**  
+
+---
+
+## 📫 Connect with Me
+- **Email:** [123108022@nitkkr.ac.in](mailto:123108022@nitkkr.ac.in)  
+- **LinkedIn:** [Shubham Baghel](https://linkedin.com/in/shubham-baghel-478266310)  
+- **GitHub:** [ShubhamBaghel309](https://github.com/ShubhamBaghel309)  
+
+---
+
+**"Let's collaborate to innovate, build, and make a lasting impact!"**
+
 
 
 ## 🌐 Socials:
