@@ -2,7 +2,7 @@
 # 💫 About Me:
 # 👋 Hi, I'm Shubham Baghel
 
-🎓 **2nd-year B.Tech Student**  
+🎓 **3rd-year B.Tech Student**  
 Artificial Intelligence and Machine Learning at **NIT Kurukshetra**  
 
 🚀 **Undergraduate Research Assistant**  
