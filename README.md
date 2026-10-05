@@ -2,24 +2,23 @@
   <img src="./assets/flipkart-grid-8-national-runner-up.png" alt="Flipkart GRiD 8.0 AI Engineering Track National Runner-Up team" width="900">
 </p>
 
-<h1 align="center">Hi, I'm Shubham Baghel 👋</h1>
+<h1 align="center">🏆 Flipkart GRiD 8.0 National Runner-Up</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer · Generative AI · NLP · Agentic Systems</strong><br>
-  B.Tech. Artificial Intelligence and Machine Learning · NIT Kurukshetra
+  <strong>AI Engineering Track · National Runner-Up · ₹75,000 Award</strong><br>
+  Built an agentic conversational shopping assistant with hybrid retrieval, deterministic routing, and multilingual voice search.
 </p>
 
 <p align="center">
-  <a href="https://shubham-baghel-portfolio.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/shubham-baghel-478266310/">LinkedIn</a> ·
-  <a href="mailto:shubhambaghel307@gmail.com">Email</a>
+  <a href="https://github.com/ShubhamBaghel309">GitHub Profile</a> ·
+  <a href="https://www.linkedin.com/in/shubham-baghel-478266310/">LinkedIn</a>
 </p>
 
 ## 🚀 What I'm building
 
-### Prognova Health — medical-travel and care-coordination platform
+### [Prognova Health](https://prognovahealth.com/en) — medical-travel and care-coordination platform
 
-I am building Prognova Health to make medical travel to India clearer, more personalized, and easier to coordinate. The platform is designed around a conversational experience where **Nova** can listen or chat with a patient, understand their needs, collect the information required for a careful search, and help them explore treatment and support options based on:
+I am building **[Prognova Health](https://prognovahealth.com/en)** to make medical travel to India clearer, more personalized, and easier to coordinate. The platform is designed around a conversational experience where **Nova** can listen or chat with a patient, understand their needs, collect the information required for a careful search, and help them explore treatment and support options based on:
 
 - Medical service and treatment needs from verified hospital partners
 - Budget, preferred comfort level, stay, transfers, companion support, and language needs
@@ -30,7 +29,9 @@ I am building Prognova Health to make medical travel to India clearer, more pers
 
 The product roadmap also includes a secure multi-method payment experience with Stripe and PayPal, milestone-based payment workflows, patient reviews, consent-based patient stories, and treatment- and destination-specific educational content. Prognova is being developed with clinical boundaries, privacy, provider verification, and honest confirmation states at the center.
 
-## 🏆 Highlights
+🔗 **Explore Prognova Health:** [prognovahealth.com/en](https://prognovahealth.com/en)
+
+## 🧠 Selected achievement details
 
 - **Flipkart GRiD 8.0 National Runner-Up — AI Engineering Track**
   - Built an agentic conversational shopping assistant with LLM intent extraction, session-aware state, deterministic tool routing, hybrid retrieval, and multilingual voice search.
@@ -42,12 +43,12 @@ The product roadmap also includes a secure multi-method payment experience with 
   - Improved large-scale resume processing to achieve a reported **4.83× speedup** through batching and parallelization.
 - **Competitive programming:** Global ranks **211, 508, and 312** in CodeChef contests; rank **1743** in LeetCode Biweekly Contest 167.
 
-## 🧠 Selected projects
+## 🧩 Selected projects
 
 - **Flipkart GRiD 8.0 — Conversational Shopping Agent** — Agentic shopping assistant with hybrid retrieval, deterministic routing, multilingual voice search, and session-aware context.
+- **Prognova Health** — Conversational medical-travel discovery, customizable care logistics, provider coordination, visa support, journey planning, and a planned secure payment layer. **[Visit the website](https://prognovahealth.com/en)**
 - **Mini GPT** — Built a 124M-parameter transformer from scratch in PyTorch, including tokenization, multi-head self-attention, positional embeddings, residual connections, and layer normalization; trained it on Shakespeare text.
 - **Stable Diffusion XL Facial Aging System** — Fine-tuned DreamBooth LoRA with CLIP text encoding, prompt-driven age progression, and VAE-based reconstruction using Hugging Face Diffusers.
-- **Prognova Health** — Conversational medical-travel discovery, customizable care logistics, provider coordination, visa support, journey planning, and a planned secure payment layer.
 
 ## 🛠️ Technical focus
 
