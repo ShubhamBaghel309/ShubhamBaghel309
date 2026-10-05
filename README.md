@@ -2,16 +2,28 @@
   <img src="./assets/flipkart-grid-8-national-runner-up.png" alt="Flipkart GRiD 8.0 AI Engineering Track National Runner-Up team" width="900">
 </p>
 
-<h1 align="center">🏆 Flipkart GRiD 8.0 National Runner-Up</h1>
+<h1 align="center">Hi, I'm Shubham Baghel 👋</h1>
+
+<p align="center">
+  <strong>AI/ML Engineer · Generative AI · NLP · Agentic Systems</strong><br>
+  B.Tech. Artificial Intelligence and Machine Learning at NIT Kurukshetra
+</p>
+
+<p align="center">
+  I build practical AI systems that combine language models, retrieval, automation, and thoughtful product design to solve real-world problems.
+</p>
+
+<p align="center">
+  <a href="https://shubham-baghel-portfolio.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/shubham-baghel-478266310/">LinkedIn</a> ·
+  <a href="mailto:shubhambaghel307@gmail.com">Email</a>
+</p>
+
+## 🏆 Flipkart GRiD 8.0 National Runner-Up
 
 <p align="center">
   <strong>AI Engineering Track · National Runner-Up · ₹75,000 Award</strong><br>
   Built an agentic conversational shopping assistant with hybrid retrieval, deterministic routing, and multilingual voice search.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShubhamBaghel309">GitHub Profile</a> ·
-  <a href="https://www.linkedin.com/in/shubham-baghel-478266310/">LinkedIn</a>
 </p>
 
 ## 🚀 What I'm building
