@@ -1,91 +1,68 @@
+<p align="center">
+  <img src="./assets/flipkart-grid-8-national-runner-up.png" alt="Flipkart GRiD 8.0 AI Engineering Track National Runner-Up team" width="900">
+</p>
 
-# 💫 About Me:
-# 👋 Hi, I'm Shubham Baghel
+<h1 align="center">Hi, I'm Shubham Baghel 👋</h1>
 
-🎓 **4th-year B.Tech Student**  
-Artificial Intelligence and Machine Learning at **NIT Kurukshetra**  
+<p align="center">
+  <strong>AI/ML Engineer · Generative AI · NLP · Agentic Systems</strong><br>
+  B.Tech. Artificial Intelligence and Machine Learning · NIT Kurukshetra
+</p>
 
-🚀 **Undergraduate Research Assistant**  
-Contributing to ISRO-funded projects, solving real-world problems with AI and ML innovations.
+<p align="center">
+  <a href="https://shubham-baghel-portfolio.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/shubham-baghel-478266310/">LinkedIn</a> ·
+  <a href="mailto:shubhambaghel307@gmail.com">Email</a>
+</p>
 
----
+## 🚀 What I'm building
 
-## 🌟 About Me
-- **Passionate Developer** focused on creating impactful solutions for students and beyond.  
-- Exploring **Machine Learning**, **Deep Learning**, and **Generative AI**.  
-- Skilled in deployment strategies for **TensorFlow** and **ONNX** models.  
+### Prognova Health — medical-travel and care-coordination platform
 
-🧠 **Key Strengths:**  
-- Hands-on experience in Python, SQL, and C.  
-- Proficient with frameworks like TensorFlow, LangChain, Streamlit, and Keras.  
-- Specializing in **LLMs**, **NLP**, and **Computer Vision**.
+I am building Prognova Health to make medical travel to India clearer, more personalized, and easier to coordinate. The platform is designed around a conversational experience where **Nova** can listen or chat with a patient, understand their needs, collect the information required for a careful search, and help them explore treatment and support options based on:
 
----
+- Medical service and treatment needs from verified hospital partners
+- Budget, preferred comfort level, stay, transfers, companion support, and language needs
+- Medical-visa guidance and travel-readiness support
+- Transparent separation of clinical treatment costs and travel logistics
+- Customizable packages that patients can review and shape before confirmation
+- A connected patient journey from first question through return and follow-up
 
-## 💼 Work Experience
-### Undergraduate Research Intern  
-**NIT Kurukshetra / ISRO**  
-- **Project:** Jamming mitigation using GANs for GNSS signals.  
-- Achieved 98% accuracy in GNSS jamming classification with advanced ML models.  
+The product roadmap also includes a secure multi-method payment experience with Stripe and PayPal, milestone-based payment workflows, patient reviews, consent-based patient stories, and treatment- and destination-specific educational content. Prognova is being developed with clinical boundaries, privacy, provider verification, and honest confirmation states at the center.
 
-### Virtual Internship  
-**BCG GenAI Job Simulation (Forage)**  
-- Developed an AI-powered chatbot, reducing financial analysis turnaround by 60%.  
+## 🏆 Highlights
 
----
+- **Flipkart GRiD 8.0 National Runner-Up — AI Engineering Track**
+  - Built an agentic conversational shopping assistant with LLM intent extraction, session-aware state, deterministic tool routing, hybrid retrieval, and multilingual voice search.
+  - Achieved **Slot F1 0.985**, **NDCG@5 0.651**, and **Task Completion 0.98** with hallucination rate below 0.1% in the reported evaluation.
+- **Flipkart GRiD 8.0 Product Winner — Smart India Hackathon, NIT Kurukshetra**
+- **Generative AI / NLP Intern — Sukh Sagar Projects Pvt. Ltd.**
+  - Built an HR resume-shortlisting agent using LangGraph, bulk PDF/DOCX parsing, hybrid vector and keyword retrieval, and structured JSON/CSV outputs.
+  - Designed an MCP tool framework with zero-secret retrieval, enforced validation checks, and cross-source consistency controls.
+  - Improved large-scale resume processing to achieve a reported **4.83× speedup** through batching and parallelization.
+- **Competitive programming:** Global ranks **211, 508, and 312** in CodeChef contests; rank **1743** in LeetCode Biweekly Contest 167.
 
-## 🛠️ Projects
-- **[AI Resume Tailoring Tool](https://github.com/ShubhamBaghel309/Resume_Tailor)**  
-  - Optimized ATS compatibility, boosting job application efficiency for 100+ students.  
-  - Integrated cold email generation with Llama 3.3 and LangChain.
+## 🧠 Selected projects
 
-- **[YouTube Video Summarizer](https://videosummarizze.streamlit.app/)**  
-  - Streamlined video learning, reducing review time by 70%.  
-  - Built with Google Generative AI and Hugging Face Whisper.
+- **Flipkart GRiD 8.0 — Conversational Shopping Agent** — Agentic shopping assistant with hybrid retrieval, deterministic routing, multilingual voice search, and session-aware context.
+- **Mini GPT** — Built a 124M-parameter transformer from scratch in PyTorch, including tokenization, multi-head self-attention, positional embeddings, residual connections, and layer normalization; trained it on Shakespeare text.
+- **Stable Diffusion XL Facial Aging System** — Fine-tuned DreamBooth LoRA with CLIP text encoding, prompt-driven age progression, and VAE-based reconstruction using Hugging Face Diffusers.
+- **Prognova Health** — Conversational medical-travel discovery, customizable care logistics, provider coordination, visa support, journey planning, and a planned secure payment layer.
 
-- **[Jarvis Virtual Assistant](https://github.com/ShubhamBaghel309/Jarvis-AI.git)**  
-  - Improved task efficiency by 50% with a desktop voice assistant.
+## 🛠️ Technical focus
 
----
+**Languages:** Python, C++, SQL  
+**AI/ML:** Machine Learning, Deep Learning, Generative AI, LLMs, RAG, Agentic AI, NLP, Prompt Engineering  
+**Frameworks:** PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, scikit-learn, NumPy, Pandas  
+**Platforms & tools:** Streamlit, Django, SQLite, REST APIs, Git, GitHub, VS Code, Jupyter, Google Colab  
+**Advanced:** Transformer architectures, diffusion models, LoRA fine-tuning, embeddings, hybrid retrieval
 
-## 📜 Certifications
-- **Azure AI-900** (890/1000)  
-- **Supervised Machine Learning**  
-- **Generative AI Beginner (Google Cloud)**  
-- **Postman API Fundamentals Expert**  
+## 📫 Connect
 
----
+- [Portfolio](https://shubham-baghel-portfolio.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/shubham-baghel-478266310/)
+- [Email](mailto:shubhambaghel307@gmail.com)
 
-## 📫 Connect with Me
-- **Email:** [123108022@nitkkr.ac.in](mailto:123108022@nitkkr.ac.in)  
-- **LinkedIn:** [Shubham Baghel](https://linkedin.com/in/shubham-baghel-478266310)  
-- **GitHub:** [ShubhamBaghel309](https://github.com/ShubhamBaghel309)  
-
----
-
-**"Let's collaborate to innovate, build, and make a lasting impact!"**
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubham_baghel307) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-baghel-478266310) 
-
-# 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShubhamBaghel309&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBaghel309&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamBaghel309&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShubhamBaghel309&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=ShubhamBaghel309&icon=5&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <i>Building practical AI systems that make complex decisions clearer and more useful.</i>
+</p>
